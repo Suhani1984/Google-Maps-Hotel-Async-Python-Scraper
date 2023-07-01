@@ -49,6 +49,3 @@ to make a Google search request. Collects data and stores it to Postgres.
 ## Get hotel data from database, to see what you've scraped:
 - cd joins
 - run: python3 select.py --name "Leipzig Marriott Hotel"  (enter "{}" - {name of a hotel})
-
-
-made by: https://w-e-ll.com
